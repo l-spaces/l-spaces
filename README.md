@@ -22,9 +22,9 @@
 - **wot-ui-plus-docs** ： wot-ui-plus开发文档。  
 - **uview-plus-helper** & **uview-next-helper** ： VS Code 插件，为 `uview-plus` / `uview-next` 组件库提供智能提示，提升开发效率。 
 
-## 🏗️ 我正在维护的项目
+## 🏗️ 我正在维护的项目  
 
-### 🧩 **wot-ui-plus 组件库**
+### 🧩 **wot-ui-plus 组件库** <img alt="NPM Downloads" src="https://img.shields.io/npm/dm/wot-ui-plus?logo=npm&labelColor=%230B6EEA&color=%230BEA38&link=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2Fwot-ui-plus">
 高质量、跨端、现代化的 uni-app 组件库，支持 **微信/支付宝/钉钉小程序、H5、APP**。  
 - 💻 多平台覆盖，支持 微信小程序、支付宝小程序、钉钉小程序、H5、APP 等.
 - 🔥 88+ 个高质量组件，覆盖移动端主流场景.

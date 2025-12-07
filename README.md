@@ -4,8 +4,8 @@
 </p>
 
 <p align="center">
-  <a href="https://gitee.com/my_spaces"><img alt="Static Badge" src="https://img.shields.io/badge/%E7%A0%81%E4%BA%91-my__spaces-green?style=flat&logo=gitee&labelColor=%23F41214&link=https%3A%2F%2Fgitee.com%2Fmy_spaces"/></a>
-  <a href="https://github.com/l-spaces"><img alt="Static Badge" src="https://img.shields.io/badge/GitHub-l--spaces-%23251DF0?style=flat&logo=github&link=https%3A%2F%2Fgithub.com%2Fl-spaces" /></a>
+  <a href="https://gitee.com/my_spaces" target="_blank" rel="noopener noreferrer"><img alt="Static Badge" src="https://img.shields.io/badge/%E7%A0%81%E4%BA%91-my__spaces-green?style=flat&logo=gitee&labelColor=%23F41214&link=https%3A%2F%2Fgitee.com%2Fmy_spaces"/></a>
+  <a href="https://github.com/l-spaces" target="_blank" rel="noopener noreferrer"><img alt="Static Badge" src="https://img.shields.io/badge/GitHub-l--spaces-%23251DF0?style=flat&logo=github&link=https%3A%2F%2Fgithub.com%2Fl-spaces" /></a>
   <img alt="Static Badge" src="https://img.shields.io/badge/%E5%89%8D%E7%AB%AF%C2%B7%E5%90%8E%E7%AB%AF-blue?style=flat">
 </p>
 
@@ -19,7 +19,7 @@
 ## 🚀 我的主要项目
 
 - **wot-ui-plus** ： 基于 Vue 3 + TypeScript 构建的 uni-app 组件库，涵盖移动端主流平台（微信/支付宝/钉钉小程序、H5、APP 等），提供 88+ 个高质量组件、完备的国际化支持、多语言包与丰富文档。
-- **wot-ui-plus-docs** ： wot-ui-plus开发文档。  <a href="https://l-spaces.github.io/wot-ui-plus-docs" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/%E6%89%93%E5%BC%80%E6%96%87%E6%A1%A3-1062DE?style=flat-square"/></a>
+- **wot-ui-plus-docs** ： wot-ui-plus开发文档。  <a href="https://l-spaces.github.io/wot-ui-plus-docs" target="_blank" rel="noopener noreferrer"><img alt="Static Badge" src="https://img.shields.io/badge/%E6%89%93%E5%BC%80%E6%96%87%E6%A1%A3-1062DE?style=flat-square"/></a>
 - **uview-plus-helper** & **uview-next-helper** ： VS Code 插件，为 `uview-plus` / `uview-next` 组件库提供智能提示，提升开发效率。 
 
 ## 🏗️ 我正在维护的项目  

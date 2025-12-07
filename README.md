@@ -1,6 +1,6 @@
-<h1 align="center">👋 Hi, I'm l-spaces</h1>
+<h1 align="center">👋 Hi, I'm 哈哈先生</h1>
 <p align="center">
-  前端开发者 · 工具开发者 · 开源爱好者  
+ 全栈开发者 · 开源爱好者  
 </p>
 
 <p align="center">
@@ -9,28 +9,30 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/%E5%89%8D%E7%AB%AF%C2%B7%E5%90%8E%E7%AB%AF-blue?style=flat">
 </p>
 
----
 
-## ✨ Hi, 欢迎来到我的 GitHub！
+## ✨ 欢迎来到我的 GitHub！
 
-我是一名专注于 **java / Vue3 / uni-app ** 的全栈开发者。  
+我是一名专注于 **java / Vue3 / uni-app** 的全栈开发者。  
 
----
 
-## 🚀 我的主要项目 / 仓库
 
-- **wot-ui-plus** — 基于 Vue 3 + TypeScript 构建的 uni-app 组件库，涵盖移动端主流平台（微信/支付宝/钉钉小程序、H5、APP 等），提供 88+ 个高质量组件、完备的国际化支持、多语言包与丰富文档。
-- **wot-ui-plus-docs** — wot-ui-plus开发文档。  
-- **uview-plus-helper** & **uview-next-helper** — VS Code 插件／辅助工具，为 `uview-plus` / `uview-next` 组件库提供智能提示，提升开发效率。 
+## 🚀 我的主要项目
 
-## 🔥 我正在维护的核心项目
+- **wot-ui-plus** ： 基于 Vue 3 + TypeScript 构建的 uni-app 组件库，涵盖移动端主流平台（微信/支付宝/钉钉小程序、H5、APP 等），提供 88+ 个高质量组件、完备的国际化支持、多语言包与丰富文档。
+- **wot-ui-plus-docs** ： wot-ui-plus开发文档。  
+- **uview-plus-helper** & **uview-next-helper** ： VS Code 插件，为 `uview-plus` / `uview-next` 组件库提供智能提示，提升开发效率。 
 
-### 🧩 **wot-ui-plus — 组件库**
+## 🏗️ 我正在维护的项目
+
+### 🧩 **wot-ui-plus 组件库**
 高质量、跨端、现代化的 uni-app 组件库，支持 **微信/支付宝/钉钉小程序、H5、APP**。  
-- ✔ 88+ 高质量 UI 组件  
-- ✔ 国际化（中/英/更多语言拓展）  
-- ✔ 深度 TypeScript 支持  
-- ✔ 完整 API 文档、示例 Demo  
+- 💻 多平台覆盖，支持 微信小程序、支付宝小程序、钉钉小程序、H5、APP 等.
+- 🔥 88+ 个高质量组件，覆盖移动端主流场景.
+- 📝 使用 Typescript 构建，提供良好的组件类型系统.
+- 🌍 支持国际化，内置 15 种语言包.
+- 📖 提供丰富的文档和组件示例.
+- 🌈 支持修改 CSS 变量实现主题定制.
+- 🎨 支持暗黑模式.
 
 👉 面向生产环境的uni-app UI 解决方案。
 

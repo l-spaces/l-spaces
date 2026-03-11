@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://gitee.com/my_spaces" target="_blank" rel="noopener noreferrer"><img alt="Static Badge" src="https://img.shields.io/badge/%E7%A0%81%E4%BA%91-my__spaces-green?style=flat&logo=gitee&labelColor=%23F41214&link=https%3A%2F%2Fgitee.com%2Fmy_spaces"/></a>
   <a href="https://github.com/l-spaces" target="_blank" rel="noopener noreferrer"><img alt="Static Badge" src="https://img.shields.io/badge/GitHub-l--spaces-%23251DF0?style=flat&logo=github&link=https%3A%2F%2Fgithub.com%2Fl-spaces" /></a>
-  <img alt="Static Badge" src="https://img.shields.io/badge/%E5%89%8D%E7%AB%AF%C2%B7%E5%90%8E%E7%AB%AF-blue?style=flat">
+  <img alt="Static Badge" src="https://img.shields.io/badge/%E5%89%8D%E7%AB%AF%C2%B7%E5%90%8E%E7%AB%AF%C2%B7App%C2%B7%E5%B0%8F%E7%A8%8B%E5%BA%8F-blue?style=flat">
 </p>
 
 

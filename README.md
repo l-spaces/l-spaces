@@ -18,6 +18,7 @@
 
 ## 🚀 我的主要项目
 
+- **codex-free-auto** : 纯 GPT Free 号抽奖注册机,平均注册授权时间约 80 秒一个。
 - **wot-ui-plus** ： 基于 Vue 3 + TypeScript 构建的 uni-app 组件库，涵盖移动端主流平台（微信/支付宝/钉钉小程序、H5、APP 等），提供 88+ 个高质量组件、完备的国际化支持、多语言包与丰富文档。
 - **wot-ui-plus-docs** ： **基于VitePress的wot-ui-plus开发文档**。  <a href="https://l-spaces.github.io/wot-ui-plus-docs" target="_blank" rel="noopener noreferrer"><img alt="Static Badge" src="https://img.shields.io/badge/%E6%89%93%E5%BC%80%E6%96%87%E6%A1%A3-1062DE?style=flat"/></a>
 - **uview-plus-helper** & **uview-next-helper** & **wot-ui-plus-helper**： VS Code 插件，为 `uview-plus` / `uview-next` / `wot-ui-plus` 组件库提供智能提示，提升开发效率。 
@@ -25,8 +26,9 @@
 
 ## 🏗️ 我正在维护的项目  
 
-### **codex-free-auto** 
+### ⚙️ **codex-free-auto** 
 ✨ 基于 FlowPilot 二次开发的纯 GPT Free 号抽奖注册机。删除不必要功能并优化性能。平均注册授权时间约 80 秒一个。本项目不保证 100% 成功率根据域名不同而不同。平均成功率约 10%。授权成功及时使用，避免被封禁。
+
 
 ### 🧩 **wot-ui-plus 组件库** <img alt="NPM Downloads" src="https://img.shields.io/npm/dm/wot-ui-plus?logo=npm&labelColor=%230B6EEA&color=%230BEA38&link=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2Fwot-ui-plus">
 高质量、跨端、现代化的 uni-app 组件库，支持 **微信/支付宝/钉钉小程序、H5、APP**。  
@@ -41,15 +43,13 @@
 👉 面向生产环境的uni-app UI 解决方案。
 
 
-<!-- ---
 
-## 🔗 想聊／合作／issues／PRs
+#### 🔗 想聊／合作／issues／PRs
 
-如果你对我的项目感兴趣，欢迎 ⭐ Star、Fork、提出 Issue 或提交 PR；也欢迎一起探讨组件设计、插件开发、数据处理、跨平台适配等。  
+如果你对我的项目感兴趣，欢迎 ⭐ Star、Fork、提出 Issue 或提交 PR；也欢迎一起探讨 AI、组件设计、插件开发、数据处理、跨平台适配等。  
 
 📫 联系方式／讨论区 —— 欢迎在仓库中留言，或通过 GitHub 私信／Discussion 联系我。  
 
---- -->
 
 再次欢迎你来到这里 — 希望我的项目对你有帮助 🙏  
 

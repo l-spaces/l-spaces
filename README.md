@@ -25,6 +25,9 @@
 
 ## 🏗️ 我正在维护的项目  
 
+### **codex-free-auto** 
+✨ 基于 FlowPilot 二次开发的纯 GPT Free 号抽奖注册机。删除不必要功能并优化性能。平均注册授权时间约 80 秒一个。本项目不保证 100% 成功率根据域名不同而不同。平均成功率约 10%。授权成功及时使用，避免被封禁。
+
 ### 🧩 **wot-ui-plus 组件库** <img alt="NPM Downloads" src="https://img.shields.io/npm/dm/wot-ui-plus?logo=npm&labelColor=%230B6EEA&color=%230BEA38&link=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2Fwot-ui-plus">
 高质量、跨端、现代化的 uni-app 组件库，支持 **微信/支付宝/钉钉小程序、H5、APP**。  
 - 💻 多平台覆盖，支持 微信小程序、支付宝小程序、钉钉小程序、H5、APP 等.

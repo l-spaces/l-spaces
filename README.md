@@ -29,6 +29,13 @@
 ### ⚙️ **codex-free-auto** 
 ✨ 基于 FlowPilot 二次开发的纯 GPT Free 号抽奖注册机。删除不必要功能并优化性能。平均注册授权时间约 80 秒一个。本项目不保证 100% 成功率根据域名不同而不同。平均成功率约 10%。授权成功及时使用，避免被封禁。
 
+- **流程编排：** 支持 `全流程`、`注册GPT`、`授权Codex` 3 种执行范围。
+- **平台来源：** 支持 `CPA 面板`、`SUB2API`、`Codex2API`。
+- **邮箱收码：** 支持 Hotmail、LuckMail、GPTMail、YYDS Mail、iCloud、2925、Gmail、Cloudflare Temp Email、Cloud Mail、QQ、163、126、Inbucket 和自定义邮箱。
+- **邮箱生成：** 支持 Gmail +tag、DuckDuckGo、自定义邮箱池、Cloudflare 域名随机邮箱、iCloud 隐私邮箱、Cloudflare Temp Email 和 Cloud Mail。
+- **自动运行：** 支持多轮执行、延迟启动、步间间隔、线程间隔、自动重试、暂停等待邮箱和手动继续。
+- **状态与记录：** 支持步骤状态、运行日志、账号运行记录、配置导入导出，以及本地 helper 账号记录同步。
+- **恢复能力：** 覆盖认证重试页、验证码页状态确认、OAuth 总超时、Cloudflare 风控提示、手机号验证拦截等场景。
 
 ### 🧩 **wot-ui-plus 组件库** <img alt="NPM Downloads" src="https://img.shields.io/npm/dm/wot-ui-plus?logo=npm&labelColor=%230B6EEA&color=%230BEA38&link=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2Fwot-ui-plus">
 高质量、跨端、现代化的 uni-app 组件库，支持 **微信/支付宝/钉钉小程序、H5、APP**。  
